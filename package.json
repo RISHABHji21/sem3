@@ -10,5 +10,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
